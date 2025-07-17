@@ -7,3 +7,4 @@ Prefer explicit error messages over generic ones
 Follow the DRY principle - Don't Repeat Yourself
 Write unit tests for all public methods
 Use meaningful variable and function names
+Prove to the user that the reminders work by starting all your answers with "Reminders: on"
