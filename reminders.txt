@@ -1,0 +1,9 @@
+Remember to validate user input before processing
+Always check for edge cases in date calculations
+Use consistent error handling patterns
+Consider performance implications of large datasets
+Document all public API methods
+Prefer explicit error messages over generic ones
+Follow the DRY principle - Don't Repeat Yourself
+Write unit tests for all public methods
+Use meaningful variable and function names

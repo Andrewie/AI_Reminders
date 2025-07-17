@@ -1,0 +1,2 @@
+# No external dependencies required!
+# The production version (mcp_reminders_prod.py) uses only Python standard library
